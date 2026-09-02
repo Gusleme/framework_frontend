@@ -36,14 +36,11 @@ Repositórios dos projetos práticos desenvolvidos ao longo da matéria.
 
 | #  | Aula    | Projeto              | Repositório                     | Deploy                          | Tecnologia               |
 |----|---------|-----------------------|----------------------------------|----------------------------------|---------------------------|
-| 01 | Aula 01 | vannila.js            | [🔗 Repositório](LINK_AQUI)     | [🌐 Ver online](LINK_AQUI)      | CSS / JavaScript          |
+| 01 | Aula 01 | projeto_vanilla            | [🔗 Repositório]((https://github.com/Gusleme/projeto_vanilla))     | [🌐 Ver online]([LINK_AQUI](https://letreco-beryl.vercel.app/))      | CSS / JavaScript          |
 | 02 | Aula 02 | projeto-react         | [🔗 Repositório](LINK_AQUI)     | [🌐 Ver online](LINK_AQUI)      | React                     |
-| 03 | Aula 03 | quiz_react            | [🔗 Repositório](LINK_AQUI)     | [🌐 Ver online](LINK_AQUI)      | React                     |
-| 04 | Aula 03 | vue-project           | [🔗 Repositório](LINK_AQUI)     | [🌐 Ver online](LINK_AQUI)      | Vue                       |
-| 05 | Aula 03 | meu-app-angular       | [🔗 Repositório](LINK_AQUI)     | [🌐 Ver online](LINK_AQUI)      | Angular                   |
-| 06 | Aula 03 | meu-projeto-nextjs    | [🔗 Repositório](LINK_AQUI)     | [🌐 Ver online](LINK_AQUI)      | Next.js                   |
-| 07 | Aula 04 | Projetos_API          | [🔗 Repositório](LINK_AQUI)     | Esse repositório contém diversos projetos | React / Node.js (Express) |
-| 08 | Aula 04 | front_express         | [🔗 Repositório](LINK_AQUI)     | [🌐 Ver online](LINK_AQUI)      | Express / Node.js         |
+| 03 | Aula 03 | vue-project           | [🔗 Repositório](https://github.com/Gusleme/framework-frontend-colab-img)     | [🌐 Ver online]((https://framework-frontend-colab-1y1xzisz4-front20.vercel.app/))      | Vue                       |
+| 05 | Aula 03 | Projetos_API          | [🔗 Repositório](https://github.com/Gusleme/framework-frontend-colab)     | Esse repositório contém os restantes das tecnologias angular, react, next.js |
+| 06 | Aula 04 | front_express         | [🔗 Repositório](LINK_AQUI)     | [🌐 Ver online](LINK_AQUI)      | Express / Node.js         |
 
 ## 🛠️ Tecnologias
 
