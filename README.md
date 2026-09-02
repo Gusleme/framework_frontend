@@ -1,6 +1,6 @@
-# 📚 Backend Notes
+# 📚 frontend-frameworks
 
-Repositório dedicado aos meus estudos de Back-end, reunindo resumos das aulas, anotações e materiais de apoio da disciplina de Frameworks Back-end.
+Repositório dedicado aos meus estudos de frameworks, reunindo resumos das aulas, anotações e materiais de apoio da disciplina de Frameworks Back-end e front-end.
 
 ## 🎯 Objetivo
 
