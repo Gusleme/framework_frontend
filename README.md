@@ -1,22 +1,22 @@
-# 📚 frontend-frameworks
+# 📚 frameworks-frontend
 
-Repositório dedicado aos meus estudos de frameworks, reunindo resumos das aulas, anotações e materiais de apoio da disciplina de Frameworks Back-end e front-end.
+Repositório dedicado aos meus estudos de frameworks, reunindo resumos das aulas, anotações e materiais de apoio da disciplina de Frameworks Front-end.
 
 ## 🎯 Objetivo
 
-Organizar o conteúdo estudado, facilitar revisões e documentar minha evolução no desenvolvimento Back-end ao longo da disciplina.
+Organizar o conteúdo estudado, facilitar revisões e documentar minha evolução no desenvolvimento de frameworks Front-end ao longo da disciplina.
 
 ## 📂 Estrutura
 
 ```
-backend-notes/
+framework_frontend/
 ├── README.md
 ├── Aula 01/
-│   └── resumo.md
+│   └── README.md
 ├── Aula 02/
-│   └── resumo.md
+│   └── README.md
 ├── Aula 03/
-│   └── resumo.md
+│   └── README.md
 └── ...
 ```
 
@@ -59,8 +59,8 @@ As tecnologias serão adicionadas conforme forem estudadas durante o semestre.
 
 ## 🎓 Disciplina
 
-**Frameworks Back-end**
+**Frameworks Front-end**
 
 ## 📌 Objetivo Final
 
-Construir uma base sólida de conhecimento em Back-end, criando um repositório organizado que sirva como material de consulta para estudos, projetos e futuras oportunidades profissionais.
+Construir uma base sólida de conhecimento em frameworks Front-end, criando um repositório organizado que sirva como material de consulta para estudos, projetos e futuras oportunidades profissionais.
