@@ -123,8 +123,9 @@ src/
 
 ### Referencias
 
-- Tailwind CSS Docs: https://tailwindcss.com/docs
-- Bootstrap Docs: https://getbootstrap.com/docs
-- Bulma Docs: https://bulma.io/documentation
-- BEM Methodology: https://getbem.com
-- CSS Modules: https://github.com/css-modules/css-modules
+- SOUZA, Natan. Bootstrap 4: conheça a biblioteca front-end mais utilizada no mundo. São Paulo: Casa do Código, 2018.
+- MACHADO, Kheronn Khennedy. Angular 11 e Firebase: construindo uma aplicação integrada com a plataforma do Google. São Paulo: Casa do Código, 2021.
+- EIS, Diego. Guia Front-end: o caminho das pedras para ser um dev front-end. São Paulo: Casa do Código, 2015.
+- GONÇALVES, Edson. Desenvolvendo aplicações Web com JSP, Servlets, JavaServer Faces, Hibernate, EJB 3 Persistence e Ajax. Rio de Janeiro: Ciência Moderna, 2010.
+- SOUSA, Roque Fernando Marcos. Canvas HTML 5: composição gráfica e interatividade na Web. Rio de Janeiro: Brasport, 2014.
+- PREECE, J.; ROGERS, Y.; SHARP, H. Design de Interação: além da interação Homem-Computador. 3. ed. Porto Alegre: Bookman, 2013.
