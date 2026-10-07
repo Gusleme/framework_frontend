@@ -1,10 +1,10 @@
 # 📚 frameworks-frontend
 
-Repositório dedicado aos meus estudos de frameworks, reunindo resumos das aulas, anotações e materiais de apoio da disciplina de Frameworks Front-end.
+Repositorio dedicado aos meus estudos de frameworks, reunindo resumos das aulas, anotacoes e materiais de apoio da disciplina de Frameworks Front-end.
 
 ## 🎯 Objetivo
 
-Organizar o conteúdo estudado, facilitar revisões e documentar minha evolução no desenvolvimento de frameworks Front-end ao longo da disciplina.
+Organizar o conteudo estudado, facilitar revisoes e documentar minha evolucao no desenvolvimento de frameworks Front-end ao longo da disciplina.
 
 ## 📂 Estrutura
 
@@ -17,34 +17,41 @@ framework_frontend/
 │   └── README.md
 ├── Aula 03/
 │   └── README.md
+├── Aula 04/
+│   └── README.md
+├── Aula 05/
+│   └── README.md
+├── Aula 06/
+│   └── README.md
 └── ...
 ```
 
-Cada pasta representa uma aula e contém um resumo em Markdown (`.md`) com os principais conceitos abordados.
+Cada pasta representa uma aula e contem um resumo em Markdown (`.md`) com os principais conceitos abordados.
 
-## 📖 Conteúdo
+## 📖 Conteudo
 
 - 📚 Resumos das aulas
-- 📝 Anotações e conceitos importantes
-- 💻 Exemplos de código
-- 🚀 Boas práticas de desenvolvimento
-- 🔗 Materiais e referências complementares
+- 📝 Anotacoes e conceitos importantes
+- 💻 Exemplos de codigo
+- 🚀 Boas praticas de desenvolvimento
+- 🔗 Materiais e referencias complementares
 
 ## 🚀 Projetos da Disciplina
 
-Repositórios dos projetos práticos desenvolvidos ao longo da matéria.
+Repositorios dos projetos praticos desenvolvidos ao longo da materia.
 
-| #  | Aula    | Projeto              | Repositório                     | Deploy                          | Tecnologia               |
+| #  | Aula    | Projeto              | Repositorio                     | Deploy                          | Tecnologia               |
 |----|---------|-----------------------|----------------------------------|----------------------------------|---------------------------|
-| 01 | Aula 01 | projeto_vanilla            | [🔗 Repositório](https://github.com/Gusleme/projeto_vanilla)     | [🌐 Ver online](https://letreco-beryl.vercel.app/)      | CSS / JavaScript          |
-| 02 | Aula 02 | projeto-react         | [🔗 Repositório](LINK_AQUI)     | [🌐 Ver online](LINK_AQUI)      | React                     |
-| 03 | Aula 03 | vue-project           | [🔗 Repositório](https://github.com/Gusleme/framework-frontend-colab-img)     | [🌐 Ver online](https://framework-frontend-colab-1y1xzisz4-front20.vercel.app/)      | Vue                       |
-| 05 | Aula 03 | Projetos_API          | [🔗 Repositório](https://github.com/Gusleme/framework-frontend-colab)     | Esse repositório contém os restantes das tecnologias angular, react, next.js |
-| 06 | Aula 04 | front_express         | [🔗 Repositório](LINK_AQUI)     | [🌐 Ver online](LINK_AQUI)      | Express / Node.js         |
+| 01 | Aula 01 | projeto_vanilla       | [Repositorio](https://github.com/Gusleme/projeto_vanilla)     | [Ver online](https://letreco-beryl.vercel.app/)      | CSS / JavaScript          |
+| 02 | Aula 02 | projeto-react         | [Repositorio](https://github.com/Gusleme/React_project)       | [Ver online](LINK_AQUI)          | React                     |
+| 03 | Aula 03 | vue-project           | [Repositorio](https://github.com/Gusleme/framework-frontend-colab-img)     | [Ver online](https://framework-frontend-colab-1y1xzisz4-front20.vercel.app/)      | Vue                       |
+| 04 | Aula 03 | Projetos_API          | [Repositorio](https://github.com/Gusleme/framework-frontend-colab)     | Contem Angular, React, Next.js   | Multiplas                 |
+| 05 | Aula 04 | front_express         | [Repositorio](https://github.com/Gusleme/Express_project)     | [Ver online](LINK_AQUI)          | Express / Node.js         |
+| 06 | Aula 05 | api-notas             | [Repositorio](https://github.com/Gusleme/Express_project)     | [Ver online](LINK_AQUI)          | Express / Node.js / Vanilla JS |
 
 ## 🛠️ Tecnologias
 
-As tecnologias serão adicionadas conforme forem estudadas durante o semestre.
+As tecnologias serao adicionadas conforme forem estudadas durante o semestre.
 
 - Node.js
 - Express
@@ -63,4 +70,4 @@ As tecnologias serão adicionadas conforme forem estudadas durante o semestre.
 
 ## 📌 Objetivo Final
 
-Construir uma base sólida de conhecimento em frameworks Front-end, criando um repositório organizado que sirva como material de consulta para estudos, projetos e futuras oportunidades profissionais.
+Construir uma base solida de conhecimento em frameworks Front-end, criando um repositorio organizado que sirva como material de consulta para estudos, projetos e futuras oportunidades profissionais.
