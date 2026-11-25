@@ -55,8 +55,8 @@ Repositorios dos projetos praticos desenvolvidos ao longo da materia.
 | 05 | Aula 04 | front_express         | [Repositorio](https://github.com/Gusleme/Express_project)     | [Ver online](LINK_AQUI)          | Express / Node.js         |
 | 06 | Aula 05 | api-notas             | [Repositorio](https://github.com/Gusleme/Express_project)     | [Ver online](LINK_AQUI)          | Express / Node.js / Vanilla JS |
 | 07 | Aula 07 | frameworks-css        | [Repositorio](https://github.com/Gusleme/frameworks_css)      | -                                | CSS / Tailwind / Bootstrap    |
-| 08 | Aula 08 | projeto-react         | [Repositorio]((https://github.com/Gusleme/catalogo_conceitos_react))     | [Ver online](LINK_AQUI)      | React                     |
-| 09 | Aula 09 | projeto-react-02      | [Repositorio]((https://github.com/Gusleme/catalogo_conceitos_react))     | [Ver online](LINK_AQUI)      | React                     |
+| 08 | Aula 08 | projeto-react         | [Repositorio](https://github.com/Gusleme/catalogo_conceitos_react)     | [Ver online](LINK_AQUI)      | React                     |
+| 09 | Aula 09 | projeto-react-02      | [Repositorio](https://github.com/Gusleme/catalogo_conceitos_react)     | [Ver online](LINK_AQUI)      | React                     |
 
 ## 🛠️ Tecnologias
 
